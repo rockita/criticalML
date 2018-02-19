@@ -68,7 +68,6 @@ These sections aren't in any particular order. There's overlap and interaction b
 ##### Must
 * [Computer says no: why making AIs fair, accountable and transparent is crucial](https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial), Ian Sample, 2017 *(article)*
 * [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236.pdf), Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian *(paper)*
-##### Optional
 * [Algorithmic decision making and the cost of fairness](https://arxiv.org/pdf/1701.08230.pdf), Sam Corbe-Davies, Emma Pierson, Avi Feller, 2017 *(paper)*
 * [Algorithmic Justice League](https://www.ajlunited.org/)
 * [Understanding unintended sources of unfairness in data driven decision making](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de), Moritz Hardt, 2014 *(article)*
@@ -114,3 +113,35 @@ Optional
 * [Networked Employment Discrimination, Alex Rosenblat](https://datasociety.net/pubs/fow/EmploymentDiscrimination.pdf), Tamara Kneese, and danah boyd, 2014 *(paper)*
 * [Economic Models of (Algorithmic) Discrimination](http://www.mlandthelaw.org/papers/goodman2.pdf), Bryce W. Goodman *(paper)*
 * [Data-Driven Discrimination at Work](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=3680&context=wmlr), Pauline T. Kim, 2017 *(paper)*
+
+## AI & SOCIAL IMPACT
+##### Must
+* [AI Now 2017 — Experts Workshop](https://www.youtube.com/watch?v=5d4PBlG2P3w&t=1123s) *(video)*
+* [Artificial Intelligence for Social Good](https://cra.org/ccc/wp-content/uploads/sites/2/2016/04/AI-for-Social-Good-Workshop-Report.pdf), Gregory D. Hager, Ann Drobnis, Fei Fang, Rayid Ghani, Amy Greenwald, Terah Lyons, David C. Parkes, Jason Schultz, Suchi Saria, Stephen F. Smith, and Milind Tambe, 2017 *(paper)*
+* [AI for the Common Good: Sustainable, Inclusive and Trustworthy](https://weforum.ent.box.com/v/AI4Good?platform=hootsuite), Derek O’Halloran, 2017 *(paper)*
+* [Harnessing Artificial Intelligence for the Earth](https://preview.thenewsmarket.com/Previews/PWC/DocumentAssets/497923.pdf), PwC and the World Economic Forum, 2018 *(paper)*
+##### Optional
+* [An AI pattern language](https://autonomy.datasociety.net/patternlanguage/), M.C. Elish and Tim Hwang, Data & Society *(paper)*
+* [AI Now, 2017 Report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf), Alex Campolo, Madelyn Sanfilippo, Meredith Whittaker, Kate Crawford *(paper)*
+* Keeping track of what AI can do, and where it is being applied [https://deepindex.org/](https://deepindex.org/)
+* [AI Progress Measurement: Measuring the Progress of AI Research](https://www.eff.org/ai/metrics#Measuring-the-Progress-of-AI-Research), Electronic Frontier Foundation
+
+## AI & PROPAGANDA
+* [Weapons of Mass Persuasion](https://motherboard.vice.com/en_us/article/kbzmvm/weapons-of-mass-persuasion), Tim Hwang, 2015 *(article)*
+* [The Observatory on Social Media](https://truthy.indiana.edu/)
+* [The Computational Propaganda Research Project](http://comprop.oii.ox.ac.uk/)(COMPROP) investigates the interaction of algorithms, automation and politics.
+* [Conversation AI](https://conversationai.github.io/) is a collaborative research effort exploring ML as a tool for better discussions online.
+* [Engineering the public: Big data, surveillance and computational politics](http://firstmonday.org/article/view/4901/4097), Tufekci, 2014 *(article)*
+
+## AI & DESIGN
+Must
+Machine Learning for Designers, Patrick Hebron, 2016
+Experience Design in the Machine Learning Era, Fabien Girardin, 2016 (article)
+Optional
+Rethinking Design Tools in the Age of Machine Learning, Patrick Hebron, 2017 (article)
+Design, Philosophy and A.I., Benjamin Bratton. 2016 (video)
+The UX of AI, Google
+DESIGN IN THE ERA OF THE ALGORITHM, JOSH CLARK, 2017 (article)
+Human-Centered Machine Learning, Jess Holbrook, 2017 (article)
+
+
