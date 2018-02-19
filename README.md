@@ -105,7 +105,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [AI Investment Framework](https://medium.com/mmc-writes/the-mmc-ventures-ai-investment-framework-17-success-factors-for-the-age-of-ai-671722e7ecd2), David Kelnar, 2017 *(article)*
 * [Encoded laws, policies, and virtues: the offspring of artificial intelligence and public-policy collaboration](https://medium.com/artificial-intelligence-policy-laws-and-ethics/encoded-laws-policies-and-virtues-the-offspring-of-artificial-intelligence-and-public-policy-3dfb357faf9), Matt Chessen, 2017 *(article)*
 
-## AI and LABOUR
+## AI & LABOUR
 ### Automation and inequality
 * [Prof. Michael Osborne — The Impact of Artificial Intelligence on Jobs](https://www.youtube.com/watch?v=-eQNObP6QrQ&list=WL&index=5), 2017 *(video)*
 * [The Relentless Pace of Automation](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/), David Rodman, 2017 (article)
