@@ -99,6 +99,12 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Artificial Rhetorical Agents and the Computing of Phronesis](http://computationalculture.net/artificial-rhetorical-agents-and-the-computing-of-phronesis/), Jennifer Maher, 2016 *(paper)*
 * [The Philosophy of Science and its relation to Machine Learning](https://pdfs.semanticscholar.org/3f3c/ef3028c3eaac6246f6855b4ff5916c0a96ae.pdf), Jon Williamson *(paper)*
 
+## AI POLICY & LAW
+* [Is effective regulation of AI possible? Eight potential regulatory problems](http://philosophicaldisquisitions.blogspot.co.uk/2015/07/is-effective-regulation-of-ai-possible.html),John Danaher, 2015 *(articles)*
+* [THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN](https://www.nitrd.gov/PUBS/national_ai_rd_strategic_plan.pdf), National Science and Technology Council, 2016 *(paper)*
+* [AI Investment Framework](https://medium.com/mmc-writes/the-mmc-ventures-ai-investment-framework-17-success-factors-for-the-age-of-ai-671722e7ecd2), David Kelnar, 2017 *(article)*
+* [Encoded laws, policies, and virtues: the offspring of artificial intelligence and public-policy collaboration](https://medium.com/artificial-intelligence-policy-laws-and-ethics/encoded-laws-policies-and-virtues-the-offspring-of-artificial-intelligence-and-public-policy-3dfb357faf9), Matt Chessen, 2017 *(article)*
+
 ## AI and LABOUR
 ### Automation and inequality
 * [Prof. Michael Osborne — The Impact of Artificial Intelligence on Jobs](https://www.youtube.com/watch?v=-eQNObP6QrQ&list=WL&index=5), 2017 *(video)*
@@ -154,42 +160,41 @@ Optional
 
 ## PEOPLE & ORGANISATIONS
 There are plenty of research groups and initiatives both in academia and in the industry start thinking about the relevance of ethics and safety in AI:
-* Future of Life Institute (Boston)
-* People for the Ethical Treatment of Reinforcement Learners
-* Berkman Klein Center (Boston)
-* Alan Turing Institute Data Ethics Group
-* Institute Electrical and Electronic Engineers — IEEE (Global)
-* Centre for the study on existential risks (Cambridge, UK)
-* Association for the Advancement of Artificial Intelligence
-* The Machine Intelligence Research Institute
-* Council on the Future of AI and Robotics
-* Data & Society’s Intelligence and Autonomy Initiative
-* Facebook Artificial Intelligence Research
-* Ethics of Governance and Artificial Intelligence fund
-* Microsoft: AI research group
-* K&L gates endowment for ethics (Global)
-* Center for human-compatible AI (Berkeley, CA)
-* Machine Intelligence Research Institute (Berkeley, CA)
-* USC center for AI in society (Los Angeles)
-* Leverhulme center for future of intelligence (Cambridge, UK)
-* Partnership on AI (Global)
-* Future of Humanity Institute (Oxford, UK)
-* AI Austin (Austin, US)
-* Open AI (San Francisco, US)
-* Campaign to Stop Killer Robots (Global)
-* AI, Ethics and Governance Project
-* Campaign against Sex Robots (Global)
-* PAIR | People+AI Research Initiative
-* Digital Ethics Lab- Oxford Internet Institute
-* The MIT Laboratory for Social Machines
-* Foundation for Responsible Robotics (Global)
-* Data & Society (New York, US)
-* World Economic Forum’s Council on the Future of AI and Robotics(Global)
-* AI Now Initiative (New York, US)
-* Allen Institute for Artificial intelligence
-* IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems
-* AI Now
-* AI100 (Stanford, CA).
+* [Future of Life Institute](https://futureoflife.org/ai-news/)(Boston)
+* [People for the Ethical Treatment of Reinforcement Learners](http://petrl.org/)
+* [Berkman Klein Center](https://cyber.harvard.edu/) (Boston)
+* [Alan Turing Institute Data Ethics Group](https://www.turing.ac.uk/news/alan-turing-institute-data-ethics-group/)
+* [Institute Electrical and Electronic Engineers — IEEE](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html) (Global)
+* [Centre for the study on existential risks](http://cser.org/) (Cambridge, UK)
+* [Association for the Advancement of Artificial Intelligence](http://www.aaai.org/)
+* [The Machine Intelligence Research Institute](https://intelligence.org/)
+* [Council on the Future of AI and Robotics](https://www.weforum.org/communities/the-future-of-artificial-intelligence-and-robotics)
+* [Data & Society’s Intelligence and Autonomy Initiative](http://autonomy.datasociety.net/)
+* [Facebook Artificial Intelligence Research](https://research.fb.com/category/facebook-ai-research-fair/)
+* [Ethics of Governance and Artificial Intelligence fund](https://cyber.harvard.edu/research/ai)
+* [Microsoft: AI research group](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
+* [K&L gates endowment for ethics](http://www.klgates.com/artificial-intelligence-practices/) (Global)
+* [Center for human-compatible AI](http://humancompatible.ai/) (Berkeley, CA)
+* [Machine Intelligence Research Institute](https://intelligence.org/) (Berkeley, CA)
+* [USC center for AI in society](https://www.cais.usc.edu/) (Los Angeles)
+* [Leverhulme center for future of intelligence](http://lcfi.ac.uk/) (Cambridge, UK)
+* [Partnership on AI](https://www.partnershiponai.org/) (Global)
+* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) (Oxford, UK)
+* [AI Austin](https://www.ai-austin.org/) (Austin, US)
+* [Open AI](https://openai.com/) (San Francisco, US)
+* [Campaign to Stop Killer Robots](https://www.stopkillerrobots.org/) (Global)
+* [AI, Ethics and Governance Project](https://www.media.mit.edu/projects/ai-ethics-and-governance/overview/)
+* [Campaign against Sex Robots](https://campaignagainstsexrobots.org/) (Global)
+* [PAIR | People+AI Research Initiative](https://ai.google/pair)
+* [Digital Ethics Lab- Oxford Internet Institute](https://www.oii.ox.ac.uk/research/digital-ethics-lab/)
+* [The MIT Laboratory for Social Machines](http://socialmachines.media.mit.edu/)
+* [Foundation for Responsible Robotics](http://responsiblerobotics.org/) (Global)
+* [Data & Society](https://datasociety.net/) (New York, US)
+* [World Economic Forum’s Council on the Future of AI and Robotics](https://www.weforum.org/communities/the-future-of-artificial-intelligence-and-robotics) (Global)
+* [AI Now Initiative](https://artificialintelligencenow.com/) (New York, US)
+* [Allen Institute for Artificial intelligence](http://allenai.org/)
+* [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems](https://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
+* [AI100](https://ai100.stanford.edu/) (Stanford, CA).
 
 
 
