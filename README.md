@@ -134,14 +134,62 @@ Optional
 * [Engineering the public: Big data, surveillance and computational politics](http://firstmonday.org/article/view/4901/4097), Tufekci, 2014 *(article)*
 
 ## AI & DESIGN
-Must
-Machine Learning for Designers, Patrick Hebron, 2016
-Experience Design in the Machine Learning Era, Fabien Girardin, 2016 (article)
-Optional
-Rethinking Design Tools in the Age of Machine Learning, Patrick Hebron, 2017 (article)
-Design, Philosophy and A.I., Benjamin Bratton. 2016 (video)
-The UX of AI, Google
-DESIGN IN THE ERA OF THE ALGORITHM, JOSH CLARK, 2017 (article)
-Human-Centered Machine Learning, Jess Holbrook, 2017 (article)
+* [Machine Learning for Designers](http://www.oreilly.com/design/free/files/machine-learning-for-designers.pdf), Patrick Hebron, 2016
+* [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2), Fabien Girardin, 2016 *(article)*
+* [Design, Philosophy and A.I.](https://www.youtube.com/watch?v=4TIUVeOO5tk&t=177s), Benjamin Bratton. 2016 *(video)*
+* [The UX of AI](https://design.google/library/ux-ai/), Google
+* [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd), Jess Holbrook, 2017 *(article)*
+
+
+## AI AUDITING
+##### Must
+* [Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf), Christian Sandvig , Kevin Hamilton , Karrie Karahalios , & Cedric Langbort, 2014
+* [Ten simple rules for responsible big data research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399), Matthew Zook ,Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, 2017 (article)
+##### Optional
+* [https://pair-code.github.io/facets/](https://pair-code.github.io/facets/): Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets.
+* [Adversarial ML](https://media.ccc.de/v/34c3-8860-deep_learning_blindspots), Chaos Communication Congress 2017 (video)
+* [Machine Deception: Paper Roundup](https://medium.com/@timhwang/machine-deception-paper-roundup-7e9fee9771b9), Tim Hwang, 2018 (article)
+* [Practical Techniques for Interpreting Machine Learning Models: Introductory Open Source Examples Using Python, H2O, and XGBoost](https://fatconference.org/static/tutorials/hall_interpretable18.pdf), Patrick Hall, 2018
+
+
+## PEOPLE & ORGANISATIONS
+There are plenty of research groups and initiatives both in academia and in the industry start thinking about the relevance of ethics and safety in AI:
+* Future of Life Institute (Boston)
+* People for the Ethical Treatment of Reinforcement Learners
+* Berkman Klein Center (Boston)
+* Alan Turing Institute Data Ethics Group
+* Institute Electrical and Electronic Engineers — IEEE (Global)
+* Centre for the study on existential risks (Cambridge, UK)
+* Association for the Advancement of Artificial Intelligence
+* The Machine Intelligence Research Institute
+* Council on the Future of AI and Robotics
+* Data & Society’s Intelligence and Autonomy Initiative
+* Facebook Artificial Intelligence Research
+* Ethics of Governance and Artificial Intelligence fund
+* Microsoft: AI research group
+* K&L gates endowment for ethics (Global)
+* Center for human-compatible AI (Berkeley, CA)
+* Machine Intelligence Research Institute (Berkeley, CA)
+* USC center for AI in society (Los Angeles)
+* Leverhulme center for future of intelligence (Cambridge, UK)
+* Partnership on AI (Global)
+* Future of Humanity Institute (Oxford, UK)
+* AI Austin (Austin, US)
+* Open AI (San Francisco, US)
+* Campaign to Stop Killer Robots (Global)
+* AI, Ethics and Governance Project
+* Campaign against Sex Robots (Global)
+* PAIR | People+AI Research Initiative
+* Digital Ethics Lab- Oxford Internet Institute
+* The MIT Laboratory for Social Machines
+* Foundation for Responsible Robotics (Global)
+* Data & Society (New York, US)
+* World Economic Forum’s Council on the Future of AI and Robotics(Global)
+* AI Now Initiative (New York, US)
+* Allen Institute for Artificial intelligence
+* IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems
+* AI Now
+* AI100 (Stanford, CA).
+
 
 
