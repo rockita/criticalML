@@ -46,9 +46,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 
 ## AI TRANSPARENCY, EXPLAINABILITY & BIAS
-
-### Bias
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*DnTZCa4fLh9iayRkGtZGLg.png)
+### Bias
 
 * [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) — NIPS 2017 Keynote — Kate Crawford *(video)*
 * [Technology Is Biased Too. How Do We Fix It?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/), Laura Hudson, 2017 *(article)*
