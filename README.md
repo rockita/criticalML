@@ -40,7 +40,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction (We Robot 2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236), M. C. Elish, 2016 *(paper)*
 * [Transparent, Explainable, and Accountable AI for Robotics](http://discovery.ucl.ac.uk/10038294/1/Wachter_Transparent_explainable_accountable_AI.pdf), Sandra Wachter,Brent Mittelstadt, Luciano Floridi *(paper)*
 * [The Threat of Algocracy: Reality, Resistance and Accommodation](https://vimeo.com/144630904), John Danaher, 2016 *(paper)*
-* List of articles on [Fairness, Accountability, and Transparency in Machine Learni)ng(https://www.fatml.org/resources/relevant-scholarship)
+* List of articles on [Fairness, Accountability, and Transparency in Machine Learning](https://www.fatml.org/resources/relevant-scholarship)
 
 
 
