@@ -9,6 +9,9 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 
 ## CRITICAL AI
+
+![alt text](https://i.imgur.com/TTpIGvo.jpg)
+
 ##### Must
 * [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224), Yarden Katz, 2017 *(paper)*
 * [The critical engineering manifesto](https://criticalengineering.org/), Julian Oliver, Gordan Savičić, Danja Vasiliev
@@ -27,6 +30,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 
 ## AI ACCOUNTABILITY & GOVERNANCE
+![alt text](https://cdn-images-1.medium.com/max/1600/1*QVbmegtTgAqYNphZik_pmw.jpeg)
+
 ##### Must
 * [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/), 2014, Nicholas Diakopoulos *(article)*
 * [Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability](http://journals.sagepub.com/doi/abs/10.1177/1461444816676645?journalCode=nmsa), Mike Ananny, Kate Crawford, 2016 *(paper)*
@@ -43,6 +48,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 ## AI TRANSPARENCY, EXPLAINABILITY & BIAS
 
 ### Bias
+![alt text](https://cdn-images-1.medium.com/max/1600/1*DnTZCa4fLh9iayRkGtZGLg.png)
+
 * [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk&t=698s) — NIPS 2017 Keynote — Kate Crawford *(video)*
 * [Technology Is Biased Too. How Do We Fix It?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/), Laura Hudson, 2017 *(article)*
 * [Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks, julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), 2016 *(article)*
@@ -51,6 +58,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/?utm_source=MIT+Technology+Review&utm_campaign=ee53290ab6-weekly_roundup_2017-04-13_edit&utm_medium=email&utm_term=0_997ed6f472-ee53290ab6-154320925&goal=0_997ed6f472-ee53290ab6-154320925&mc_cid=ee53290ab6&mc_eid=2840907a15), Will Knight, 2017 *(article)*
 
 ### Transparency and Explainability
+![alt text](https://cdn-images-1.medium.com/max/1600/1*fuCkEN3CcPxYv5f0zeAWuw.png)
+
 * [Big Data’s Disparate Impact](http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), Solon Barocas & Andrew D. Selbst, 2016 *(paper)*
 * [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms), FATML.org
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf), Zachary C. Lipton, 2017 *(paper)*
@@ -65,6 +74,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 
 ## AI FAIRNESS
+![alt text](https://cdn-images-1.medium.com/max/1600/1*WRXeJzU72brhkiXkCu7F0w.gif)
 ##### Must
 * [Computer says no: why making AIs fair, accountable and transparent is crucial](https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial), Ian Sample, 2017 *(article)*
 * [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236.pdf), Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian *(paper)*
@@ -74,6 +84,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor, Virginia Eubanks, 2018
 
 ## AI OWNERSHIP & CONTROL
+![alt text](https://cdn-images-1.medium.com/max/1600/1*l3T-ShUDS7bDrgBhbcTjHg.gif)
+
 * [Big data: Bringing competition policy to the digital era](http://www.oecd.org/competition/big-data-bringing-competition-policy-to-the-digital-era.htm), OECD *(paper)*
 * [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754), 2015, Shoshana Zuboff *(paper)*
 * [Why Big Tech Companies Are Open-Sourcing Their AI Systems](http://www.iflscience.com/technology/why-big-tech-companies-are-open-sourcing-their-ai-systems), Patrick Shafto *(article)*
@@ -81,6 +93,8 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 
 ## AI ETHICS
+![alt text](https://cdn-images-1.medium.com/max/1600/1*B5R_5p8GNSQxBI_L3Tt1Kg.gif)
+
 ##### Must
 * [Why Artificial Intelligence Is Still Waiting For Its Ethics Transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/), Scott Rosenberg, 2017 (article)
 * [Ethics in AI](https://www.youtube.com/watch?v=FcI_IYHjZYg&list=WL&index=10), debate by Imperial College London *(video)*
@@ -100,18 +114,20 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Philosophy of Science and its relation to Machine Learning](https://pdfs.semanticscholar.org/3f3c/ef3028c3eaac6246f6855b4ff5916c0a96ae.pdf), Jon Williamson *(paper)*
 
 ## AI POLICY & LAW
+![alt text](https://cdn-images-1.medium.com/max/1600/1*zsvvVD7a37fEArX3D936_w.gif)
 * [Is effective regulation of AI possible? Eight potential regulatory problems](http://philosophicaldisquisitions.blogspot.co.uk/2015/07/is-effective-regulation-of-ai-possible.html),John Danaher, 2015 *(articles)*
 * [THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN](https://www.nitrd.gov/PUBS/national_ai_rd_strategic_plan.pdf), National Science and Technology Council, 2016 *(paper)*
 * [AI Investment Framework](https://medium.com/mmc-writes/the-mmc-ventures-ai-investment-framework-17-success-factors-for-the-age-of-ai-671722e7ecd2), David Kelnar, 2017 *(article)*
 * [Encoded laws, policies, and virtues: the offspring of artificial intelligence and public-policy collaboration](https://medium.com/artificial-intelligence-policy-laws-and-ethics/encoded-laws-policies-and-virtues-the-offspring-of-artificial-intelligence-and-public-policy-3dfb357faf9), Matt Chessen, 2017 *(article)*
 
 ## AI & LABOUR
+![alt text](https://cdn-images-1.medium.com/max/1600/1*eybzPhwyOhKXexz1HNTsFA.gif)
 ### Automation and inequality
 * [Prof. Michael Osborne — The Impact of Artificial Intelligence on Jobs](https://www.youtube.com/watch?v=-eQNObP6QrQ&list=WL&index=5), 2017 *(video)*
 * [The Relentless Pace of Automation](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/), David Rodman, 2017 (article)
 * [Technological Unemployment and the Value of Work, John Danaher](http://philosophicaldisquisitions.blogspot.co.uk/2015/09/technological-unemployment-and-value-of.html), 2015 *(articles)*
 Optional
-* [Machine learning and the politics of data], Ramon Amaro(https://vimeo.com/195218446), 2017 *(video)*
+* [Machine learning and the politics of data](https://vimeo.com/195218446), Amaro, 2017 *(video)*
 * [Theories of Technology and the Production of Value from Everyday Life](http://www.artandeducation.net/classroom/66046/theories-of-technology-and-the-production-of-value-from-everyday-life), 2015 *(videos)*
 
 ### Discrimination
@@ -121,6 +137,7 @@ Optional
 * [Data-Driven Discrimination at Work](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=3680&context=wmlr), Pauline T. Kim, 2017 *(paper)*
 
 ## AI & SOCIAL IMPACT
+![alt text](https://cdn-images-1.medium.com/max/1600/1*DOH-XOfNjRhg97wXL7dHog.png)
 ##### Must
 * [AI Now 2017 — Experts Workshop](https://www.youtube.com/watch?v=5d4PBlG2P3w&t=1123s) *(video)*
 * [Artificial Intelligence for Social Good](https://cra.org/ccc/wp-content/uploads/sites/2/2016/04/AI-for-Social-Good-Workshop-Report.pdf), Gregory D. Hager, Ann Drobnis, Fei Fang, Rayid Ghani, Amy Greenwald, Terah Lyons, David C. Parkes, Jason Schultz, Suchi Saria, Stephen F. Smith, and Milind Tambe, 2017 *(paper)*
@@ -133,6 +150,7 @@ Optional
 * [AI Progress Measurement: Measuring the Progress of AI Research](https://www.eff.org/ai/metrics#Measuring-the-Progress-of-AI-Research), Electronic Frontier Foundation
 
 ## AI & PROPAGANDA
+![alt text](https://cdn-images-1.medium.com/max/1600/1*9tjJH74yk7DMVlTAQgmv-Q.gif)
 * [Weapons of Mass Persuasion](https://motherboard.vice.com/en_us/article/kbzmvm/weapons-of-mass-persuasion), Tim Hwang, 2015 *(article)*
 * [The Observatory on Social Media](https://truthy.indiana.edu/)
 * [The Computational Propaganda Research Project](http://comprop.oii.ox.ac.uk/)(COMPROP) investigates the interaction of algorithms, automation and politics.
@@ -140,6 +158,7 @@ Optional
 * [Engineering the public: Big data, surveillance and computational politics](http://firstmonday.org/article/view/4901/4097), Tufekci, 2014 *(article)*
 
 ## AI & DESIGN
+![alt text](http://www.thelivingnewyork.com/images/chair_02.jpg)
 * [Machine Learning for Designers](http://www.oreilly.com/design/free/files/machine-learning-for-designers.pdf), Patrick Hebron, 2016
 * [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2), Fabien Girardin, 2016 *(article)*
 * [Design, Philosophy and A.I.](https://www.youtube.com/watch?v=4TIUVeOO5tk&t=177s), Benjamin Bratton. 2016 *(video)*
@@ -148,6 +167,7 @@ Optional
 
 
 ## AI AUDITING
+![alt text](https://cdn-images-1.medium.com/max/1600/1*c7Snu7beJLpE9S9XkGSBQg.jpeg)
 ##### Must
 * [Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf), Christian Sandvig , Kevin Hamilton , Karrie Karahalios , & Cedric Langbort, 2014
 * [Ten simple rules for responsible big data research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399), Matthew Zook ,Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, 2017 (article)
