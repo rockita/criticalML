@@ -58,7 +58,6 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/?utm_source=MIT+Technology+Review&utm_campaign=ee53290ab6-weekly_roundup_2017-04-13_edit&utm_medium=email&utm_term=0_997ed6f472-ee53290ab6-154320925&goal=0_997ed6f472-ee53290ab6-154320925&mc_cid=ee53290ab6&mc_eid=2840907a15), Will Knight, 2017 *(article)*
 
 ### Transparency and Explainability
-![alt text](https://cdn-images-1.medium.com/max/1600/1*fuCkEN3CcPxYv5f0zeAWuw.png)
 
 * [Big Data’s Disparate Impact](http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), Solon Barocas & Andrew D. Selbst, 2016 *(paper)*
 * [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms), FATML.org
@@ -158,7 +157,7 @@ Optional
 * [Engineering the public: Big data, surveillance and computational politics](http://firstmonday.org/article/view/4901/4097), Tufekci, 2014 *(article)*
 
 ## AI & DESIGN
-![alt text](http://www.thelivingnewyork.com/images/chair_02.jpg)
+![alt text](http://www.professional-workstation.com/images/PGW/Applications/Design/Generative-Design-01.jpg)
 * [Machine Learning for Designers](http://www.oreilly.com/design/free/files/machine-learning-for-designers.pdf), Patrick Hebron, 2016
 * [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2), Fabien Girardin, 2016 *(article)*
 * [Design, Philosophy and A.I.](https://www.youtube.com/watch?v=4TIUVeOO5tk&t=177s), Benjamin Bratton. 2016 *(video)*
