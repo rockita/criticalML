@@ -24,7 +24,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI](http://polaris.gseis.ucla.edu/pagre/critical.html), Philip E. Agre, 1997 *(paper)*
 * [Don’t Call AI “Magic”](https://points.datasociety.net/dont-call-ai-magic-142da16db408), M.C.Elish, 2017 *(article)*
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf), Gary Marcus, 2017 *(paper)*
-* A list of lists and literature review on critical algorithm studies: https://socialmediacollective.org/reading-lists/critical-algorithm-studies/#0.5
+* A list of lists and literature review on critical algorithm studies by Tarleton Gillespie and Nick Seaver: https://socialmediacollective.org/reading-lists/critical-algorithm-studies/#0.5
 
 
 
