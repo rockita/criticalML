@@ -135,7 +135,6 @@ Optional
 * [Data-Driven Discrimination at Work](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=3680&context=wmlr), Pauline T. Kim, 2017 *(paper)*
 
 ## AI & SOCIAL IMPACT
-![alt text](https://cdn-images-1.medium.com/max/1600/1*DOH-XOfNjRhg97wXL7dHog.png)
 ##### Must
 * [AI Now 2017 — Experts Workshop](https://www.youtube.com/watch?v=5d4PBlG2P3w&t=1123s) *(video)*
 * [Artificial Intelligence for Social Good](https://cra.org/ccc/wp-content/uploads/sites/2/2016/04/AI-for-Social-Good-Workshop-Report.pdf), Gregory D. Hager, Ann Drobnis, Fei Fang, Rayid Ghani, Amy Greenwald, Terah Lyons, David C. Parkes, Jason Schultz, Suchi Saria, Stephen F. Smith, and Milind Tambe, 2017 *(paper)*
@@ -156,7 +155,6 @@ Optional
 * [Engineering the public: Big data, surveillance and computational politics](http://firstmonday.org/article/view/4901/4097), Tufekci, 2014 *(article)*
 
 ## AI & DESIGN
-![alt text](http://www.professional-workstation.com/images/PGW/Applications/Design/Generative-Design-01.jpg)
 * [Machine Learning for Designers](http://www.oreilly.com/design/free/files/machine-learning-for-designers.pdf), Patrick Hebron, 2016
 * [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2), Fabien Girardin, 2016 *(article)*
 * [Design, Philosophy and A.I.](https://www.youtube.com/watch?v=4TIUVeOO5tk&t=177s), Benjamin Bratton. 2016 *(video)*
