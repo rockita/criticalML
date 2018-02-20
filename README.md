@@ -66,7 +66,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Algorithmic Transparency for the Smart City](https://poseidon01.ssrn.com/delivery.php?ID=419112000078118093003011078127079067109042093053023044073119015124066086073010093023038097054120044049061091116025096081018116118073055047067113114102114091069028048042086071127081088091122007103075064094072106071108120085065024104020098084067105069&EXT=pdf), Robert Brauneis and Ellen P. Goodman *(paper)*
 * [Weapons Of Math Destruction: How Big Data Increases Inequality And Threatens Democracy], New York: Crown; 2016
 * [Digital Decisions](https://cdt.org/issue/privacy-data/digital-decisions/), CDT, 2017
-* [Regulating inscrutable systems](https://arxiv.org/pdf/1702.08608.pdf), Andrew D. Selbst and Solon Barocas, 2017 (paper)
+* [The Intuitive Appeal of Explainable Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126971), Andrew D. Selbst and Solon Barocas, 2017 (paper)
 
 
 
