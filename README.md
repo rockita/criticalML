@@ -167,7 +167,7 @@ Optional
 ##### Must
 * [Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf), Christian Sandvig , Kevin Hamilton , Karrie Karahalios , & Cedric Langbort, 2014
 * [Ten simple rules for responsible big data research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399), Matthew Zook ,Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, 2017 (article)
-* [The Malicious Use of Artificial Intelligence](https://img1.wsimg.com/blobby/go/3d82daa4-97fe-4096-9c6b-376b92c619de/downloads/1c6q2kc4v_50335.pdf), University of Oxford, Centre for the Study of Existential Risk, Future of Life Institute, OpenAI, Center for a New American Security, EFF
+* [The Malicious Use of Artificial Intelligence](https://img1.wsimg.com/blobby/go/3d82daa4-97fe-4096-9c6b-376b92c619de/downloads/1c6q2kc4v_50335.pdf), University of Oxford, Centre for the Study of Existential Risk, Future of Life Institute, OpenAI, Center for a New American Security, EFF, 2018
 ##### Optional
 * [https://pair-code.github.io/facets/](https://pair-code.github.io/facets/): Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets.
 * [Adversarial ML](https://media.ccc.de/v/34c3-8860-deep_learning_blindspots), Chaos Communication Congress 2017 (video)
