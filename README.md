@@ -25,7 +25,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Don’t Call AI “Magic”](https://points.datasociety.net/dont-call-ai-magic-142da16db408), M.C.Elish, 2017 *(article)*
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf), Gary Marcus, 2017 *(paper)*
 * A list of lists and literature review on critical algorithm studies by Tarleton Gillespie and Nick Seaver: https://socialmediacollective.org/reading-lists/critical-algorithm-studies/#0.5
-
+* [AI and Alchemy](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus, 1965
 
 
 
@@ -162,16 +162,20 @@ Optional
 * [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd), Jess Holbrook, 2017 *(article)*
 
 
-## AI AUDITING
+## AI AUDITING & SECURITY
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*c7Snu7beJLpE9S9XkGSBQg.jpeg)
 ##### Must
 * [Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf), Christian Sandvig , Kevin Hamilton , Karrie Karahalios , & Cedric Langbort, 2014
 * [Ten simple rules for responsible big data research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399), Matthew Zook ,Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, 2017 (article)
+* [The Malicious Use of Artificial Intelligence](https://img1.wsimg.com/blobby/go/3d82daa4-97fe-4096-9c6b-376b92c619de/downloads/1c6q2kc4v_50335.pdf), University of Oxford, Centre for the Study of Existential Risk, Future of Life Institute, OpenAI, Center for a New American Security, EFF
 ##### Optional
 * [https://pair-code.github.io/facets/](https://pair-code.github.io/facets/): Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets.
 * [Adversarial ML](https://media.ccc.de/v/34c3-8860-deep_learning_blindspots), Chaos Communication Congress 2017 (video)
 * [Machine Deception: Paper Roundup](https://medium.com/@timhwang/machine-deception-paper-roundup-7e9fee9771b9), Tim Hwang, 2018 (article)
 * [Practical Techniques for Interpreting Machine Learning Models: Introductory Open Source Examples Using Python, H2O, and XGBoost](https://fatconference.org/static/tutorials/hall_interpretable18.pdf), Patrick Hall, 2018
+* [Auditing Algorithms](http://auditingalgorithms.science/?page_id=89)
+* [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/pdf/1712.03141.pdf), Battista Biggioa , Fabio Roli
+
 
 
 ## PEOPLE & ORGANISATIONS
@@ -210,7 +214,8 @@ There are plenty of research groups and initiatives both in academia and in the 
 * [AI Now Initiative](https://artificialintelligencenow.com/) (New York, US)
 * [Allen Institute for Artificial intelligence](http://allenai.org/)
 * [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems](https://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
-* [AI100](https://ai100.stanford.edu/) (Stanford, CA).
+* [AI100](https://ai100.stanford.edu/) (Stanford, CA)
+* [Artificial Intelligence Committee](https://www.parliament.uk/ai-committee) — UK Parliament (AI Lords on Twitter)
 
 
 
