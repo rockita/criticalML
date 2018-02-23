@@ -145,6 +145,7 @@ Optional
 * [AI Now, 2017 Report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf), Alex Campolo, Madelyn Sanfilippo, Meredith Whittaker, Kate Crawford *(paper)*
 * Keeping track of what AI can do, and where it is being applied [https://deepindex.org/](https://deepindex.org/)
 * [AI Progress Measurement: Measuring the Progress of AI Research](https://www.eff.org/ai/metrics#Measuring-the-Progress-of-AI-Research), Electronic Frontier Foundation
+* [Exponential View by Azeem Azhar](https://us15.campaign-archive.com/home/?u=eee7b8043119f98544067854b&id=d581eab324), mailing list all things AI and society
 
 ## AI & PROPAGANDA
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*9tjJH74yk7DMVlTAQgmv-Q.gif)
