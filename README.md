@@ -125,6 +125,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Relentless Pace of Automation](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/), David Rodman, 2017 (article)
 * [Technological Unemployment and the Value of Work, John Danaher](http://philosophicaldisquisitions.blogspot.co.uk/2015/09/technological-unemployment-and-value-of.html), 2015 *(articles)*
 Optional
+* [The Economics of Artificial Intelligence: An Agenda](http://papers.nber.org/books/agra-1), Ajay K. Agrawal, Joshua Gans, and Avi Goldfarb, 2017 *(collection of papers)*
 * [Machine learning and the politics of data](https://vimeo.com/195218446), Amaro, 2017 *(video)*
 * [Theories of Technology and the Production of Value from Everyday Life](http://www.artandeducation.net/classroom/66046/theories-of-technology-and-the-production-of-value-from-everyday-life), 2015 *(videos)*
 
@@ -142,6 +143,7 @@ Optional
 * [Harnessing Artificial Intelligence for the Earth](https://preview.thenewsmarket.com/Previews/PWC/DocumentAssets/497923.pdf), PwC and the World Economic Forum, 2018 *(paper)*
 ##### Optional
 * [An AI pattern language](https://autonomy.datasociety.net/patternlanguage/), M.C. Elish and Tim Hwang, Data & Society *(paper)*
+* [Computational Power and the Social Impact of Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147971), Tim Hwang, 2018, *(paper)*
 * [AI Now, 2017 Report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf), Alex Campolo, Madelyn Sanfilippo, Meredith Whittaker, Kate Crawford *(paper)*
 * Keeping track of what AI can do, and where it is being applied [https://deepindex.org/](https://deepindex.org/)
 * [AI Progress Measurement: Measuring the Progress of AI Research](https://www.eff.org/ai/metrics#Measuring-the-Progress-of-AI-Research), Electronic Frontier Foundation
