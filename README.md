@@ -80,6 +80,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Algorithmic Justice League](https://www.ajlunited.org/)
 * [Understanding unintended sources of unfairness in data driven decision making](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de), Moritz Hardt, 2014 *(article)*
 * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor, Virginia Eubanks, 2018
+* [Mirror Mirror: Reflections on Quantitative Fairness](https://speak-statistics-to-power.github.io/fairness/)
 
 ## AI OWNERSHIP & CONTROL
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*l3T-ShUDS7bDrgBhbcTjHg.gif)
