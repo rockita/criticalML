@@ -19,6 +19,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/), Rodney Brooks, 2017 *(article)*
 * [Remarks on the Hole of Representation in Computer ‘Vision’](https://www.youtube.com/watch?v=VSAaGcPsim0&t=1361s), Benjamin Bratton, 2017 *(video)*
 ##### Optional
+* [Critical Studies in Machine Intelligence](http://kim.hfg-karlsruhe.de/), Karlsruhe University of Arts and Design
 * [Linguistic Capitalism and Algorithmic Mediation](http://infoscience.epfl.ch/record/200539/files/Kaplan_Representations.pdf), F Kaplan, 2014 *(article)*
 * [Defining Algorithmic Ideology: Using Ideology Critique to Scrutinize Corporate Search Engines](https://www.triple-c.at/index.php/tripleC/article/view/439/641), Astrid Mager *(paper)*
 * [Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI](http://polaris.gseis.ucla.edu/pagre/critical.html), Philip E. Agre, 1997 *(paper)*
@@ -36,6 +37,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/), 2014, Nicholas Diakopoulos *(article)*
 * [Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability](http://journals.sagepub.com/doi/abs/10.1177/1461444816676645?journalCode=nmsa), Mike Ananny, Kate Crawford, 2016 *(paper)*
 * [The Scored Society: Due Process for Automated Predictions](https://papers.ssrn.com/abstract=2376209), 2014, Danielle Keats Citron & Frank Pasquale *(paper)*
+* [Computational Power and the Social Impact of Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147971), Tim Hwang, 2018 *(paper)*
 ##### Optional
 * [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction (We Robot 2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236), M. C. Elish, 2016 *(paper)*
 * [Transparent, Explainable, and Accountable AI for Robotics](http://discovery.ucl.ac.uk/10038294/1/Wachter_Transparent_explainable_accountable_AI.pdf), Sandra Wachter,Brent Mittelstadt, Luciano Floridi *(paper)*
@@ -58,10 +60,13 @@ These sections aren't in any particular order. There's overlap and interaction b
 
 ### Transparency and Explainability
 
+#### Must
 * [Big Data’s Disparate Impact](http://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf), Solon Barocas & Andrew D. Selbst, 2016 *(paper)*
-* [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms), FATML.org
+* [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/), Christoph Molnar, 2018 *(book)*
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf), Zachary C. Lipton, 2017 *(paper)*
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf), Finale Doshi-Velez and Been Kim, 2017 *(paper)*
+
+#### Optional
 * [Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability](http://mike.ananny.org/papers/anannyCrawford_seeingWithoutKnowing_2016.pdf), Mike Ananny, Kate Crawford, 2016 *(paper)*
 * [Algorithmic Transparency for the Smart City](https://poseidon01.ssrn.com/delivery.php?ID=419112000078118093003011078127079067109042093053023044073119015124066086073010093023038097054120044049061091116025096081018116118073055047067113114102114091069028048042086071127081088091122007103075064094072106071108120085065024104020098084067105069&EXT=pdf), Robert Brauneis and Ellen P. Goodman *(paper)*
 * Weapons Of Math Destruction: How Big Data Increases Inequality And Threatens Democracy, Crown, 2016
@@ -80,6 +85,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [Algorithmic Justice League](https://www.ajlunited.org/)
 * [Understanding unintended sources of unfairness in data driven decision making](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de), Moritz Hardt, 2014 *(article)*
 * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor, Virginia Eubanks, 2018
+* List of lists http://algorithmtips.org/resources/
 
 ## AI OWNERSHIP & CONTROL
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*l3T-ShUDS7bDrgBhbcTjHg.gif)
@@ -117,6 +123,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN](https://www.nitrd.gov/PUBS/national_ai_rd_strategic_plan.pdf), National Science and Technology Council, 2016 *(paper)*
 * [AI Investment Framework](https://medium.com/mmc-writes/the-mmc-ventures-ai-investment-framework-17-success-factors-for-the-age-of-ai-671722e7ecd2), David Kelnar, 2017 *(article)*
 * [Encoded laws, policies, and virtues: the offspring of artificial intelligence and public-policy collaboration](https://medium.com/artificial-intelligence-policy-laws-and-ethics/encoded-laws-policies-and-virtues-the-offspring-of-artificial-intelligence-and-public-policy-3dfb357faf9), Matt Chessen, 2017 *(article)*
+* [AI in the UK: ready, willing and able?](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/100.pdf), HOUSE OF LORDS Select Committee on Artificial Intelligence, 2018, *(report)*
 
 ## AI & LABOUR
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*eybzPhwyOhKXexz1HNTsFA.gif)
@@ -141,6 +148,7 @@ Optional
 * [Artificial Intelligence for Social Good](https://cra.org/ccc/wp-content/uploads/sites/2/2016/04/AI-for-Social-Good-Workshop-Report.pdf), Gregory D. Hager, Ann Drobnis, Fei Fang, Rayid Ghani, Amy Greenwald, Terah Lyons, David C. Parkes, Jason Schultz, Suchi Saria, Stephen F. Smith, and Milind Tambe, 2017 *(paper)*
 * [AI for the Common Good: Sustainable, Inclusive and Trustworthy](https://weforum.ent.box.com/v/AI4Good?platform=hootsuite), Derek O’Halloran, 2017 *(paper)*
 * [Harnessing Artificial Intelligence for the Earth](https://preview.thenewsmarket.com/Previews/PWC/DocumentAssets/497923.pdf), PwC and the World Economic Forum, 2018 *(paper)*
+* [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms), FATML.org
 ##### Optional
 * [An AI pattern language](https://autonomy.datasociety.net/patternlanguage/), M.C. Elish and Tim Hwang, Data & Society *(paper)*
 * [Computational Power and the Social Impact of Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147971), Tim Hwang, 2018, *(paper)*
@@ -219,6 +227,8 @@ There are plenty of research groups and initiatives both in academia and in the 
 * [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence and Autonomous Systems](https://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 * [AI100](https://ai100.stanford.edu/) (Stanford, CA)
 * [Artificial Intelligence Committee](https://www.parliament.uk/ai-committee) — UK Parliament (AI Lords on Twitter)
+* [Open Roboethics Institute](http://www.openroboethics.org/) 
+* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
 
 
 
