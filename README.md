@@ -192,6 +192,8 @@ Optional
 ## PEOPLE & ORGANISATIONS
 There are plenty of research groups and initiatives both in academia and in the industry start thinking about the relevance of ethics and safety in AI:
 * [Future of Life Institute](https://futureoflife.org/ai-news/)(Boston)
+* [AI4ALL](http://ai-4-all.org/)
+* [Centre for Data Ethics and Innovation Consultation](https://www.gov.uk/government/consultations/consultation-on-the-centre-for-data-ethics-and-innovation/centre-for-data-ethics-and-innovation-consultation) (UK)
 * [People for the Ethical Treatment of Reinforcement Learners](http://petrl.org/)
 * [Berkman Klein Center](https://cyber.harvard.edu/) (Boston)
 * [Alan Turing Institute Data Ethics Group](https://www.turing.ac.uk/news/alan-turing-institute-data-ethics-group/)
