@@ -39,6 +39,7 @@ These sections aren't in any particular order. There's overlap and interaction b
 * [The Scored Society: Due Process for Automated Predictions](https://papers.ssrn.com/abstract=2376209), 2014, Danielle Keats Citron & Frank Pasquale *(paper)*
 * [Computational Power and the Social Impact of Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147971), Tim Hwang, 2018 *(paper)*
 ##### Optional
+* [Mapping AI Governance](https://www.nesta.org.uk/data-visualisation-and-interactive/mapping-ai-governance/), NESTA, 2019
 * [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction (We Robot 2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236), M. C. Elish, 2016 *(paper)*
 * [Transparent, Explainable, and Accountable AI for Robotics](http://discovery.ucl.ac.uk/10038294/1/Wachter_Transparent_explainable_accountable_AI.pdf), Sandra Wachter,Brent Mittelstadt, Luciano Floridi *(paper)*
 * [The Threat of Algocracy: Reality, Resistance and Accommodation](https://vimeo.com/144630904), John Danaher, 2016 *(paper)*
